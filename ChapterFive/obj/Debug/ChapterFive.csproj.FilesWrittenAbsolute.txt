@@ -1,0 +1,8 @@
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/bin/Debug/ChapterFive.dll.mdb
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/bin/Debug/ChapterFive.dll
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/obj/Debug/ChapterFive.dll
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/obj/Debug/ChapterFive.dll.mdb
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/bin/Debug/Xamarin.Forms.Core.dll
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/launchlabs/Projects/ChapterFive/ChapterFive/bin/Debug/Xamarin.Forms.Platform.dll
