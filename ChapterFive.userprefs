@@ -1,14 +1,17 @@
-﻿<Properties StartupItem="iOS/ChapterFive.iOS.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChapterFive/TestListView.cs">
+﻿<Properties StartupItem="Droid/ChapterFive.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChapterFive/MyView.cs">
     <Files>
-      <File FileName="ChapterFive/ChapterFive.cs" Line="10" Column="4" />
-      <File FileName="ChapterFive/MyView.cs" Line="11" Column="4" />
-      <File FileName="ChapterFive/TestListView.cs" Line="86" Column="28" />
+      <File FileName="ChapterFive/ChapterFive.cs" Line="28" Column="17" />
+      <File FileName="ChapterFive/MyView.cs" Line="54" Column="16" />
+      <File FileName="ChapterFive/TestListView.cs" Line="45" Column="6" />
       <File FileName="ChapterFive/packages.config" Line="1" Column="1" />
+      <File FileName="ChapterFive/ListViewButton.cs" Line="100" Column="56" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.ChapterFive.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3B3234B-BAE2-4A0E-8E64-FCE5772F4147" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ChapterFive.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
